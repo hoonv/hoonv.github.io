@@ -1,8 +1,8 @@
 ---
 title: iOS에서 shimmering 효과 주기. CAGradientLayer와 CABasicAnimation 사용
-date: 2024-02-27 16:30:40 +/-0900
+date: 2024-02-27 16:30:40 +0900
 categories: [iOS, UIKit]
-tags: [swift, UIKit, CAGradientLayer, CABasicAnimation]
+tags: [swift, uikit, cagradientlayer, cabasicanimation]
 ---
 
 <h4><b><span style='background-color: #00dc642A'>Shimmering 효과</span></b></h4>
