@@ -58,12 +58,12 @@ menu:
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
 legal:
-  - title:             LICENSE
-    url:               /LICENSE/
-  - title:             NOTICE
-    url:               /NOTICE/
-  - title:             CHANGELOG
-    url:               /CHANGELOG/
+  # - title:             LICENSE
+  #   url:               /LICENSE/
+  # - title:             NOTICE
+  #   url:               /NOTICE/
+  # - title:             CHANGELOG
+  #   url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             © 2025. All rights reserved.
@@ -258,7 +258,7 @@ hydejack:
   hide_dates:          false
 
   # Similarly, showing last modified date can devalue a post if it is too far in the past.
-  hide_last_modified:  false
+  hide_last_modified:  true
 
   # Note that dark mode only works in the PRO version of Hydejack.
   dark_mode:
