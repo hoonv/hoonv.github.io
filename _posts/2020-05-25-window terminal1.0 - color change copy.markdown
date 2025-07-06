@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "window terminal(윈도우 터미널) 1.0 - color change"
+title:  "window terminal1.0 color change"
 date:   2020-05-25 11:09:00 +0900
 categories: 
 ---
