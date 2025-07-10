@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: hoonv's note # the main title
 
-tagline: 사소한것도 기록하는 블로그입니다. # it will display as the subtitle
+tagline:  # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   iOS, Swift, SwiftUI, Bitcoin, Bible
@@ -38,7 +38,7 @@ social:
   email: chaeefe@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
+    # - https://twitter.com/username # change to your Twitter homepage
     - https://github.com/username # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
@@ -95,10 +95,10 @@ theme_mode: # [light | dark]
 # will be added to all media resources (site avatar, posts' images, audio and video files) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-cdn: "https://chirpy-img.netlify.app"
+cdn: 
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/commons/avatar.jpg"
+avatar: "/assets/img/avatar/avatar.jpeg"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
